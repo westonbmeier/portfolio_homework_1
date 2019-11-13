@@ -1,0 +1,125 @@
+#container{
+
+    display: block;
+    width: 960px;
+    margin: auto;
+    background-color: white;
+
+}
+
+header{
+
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: #777777;
+    background-color: white;
+    height: 75px;
+
+    
+
+
+}
+
+#westonmeier {
+
+float: left;
+background-color: #4aaaa5;
+color: white;
+font-family: 'Times New Roman', Times, serif;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 12px;
+border-radius: 1px;
+border-style: solid;
+
+
+}
+
+.links{
+
+
+font-family:Arial, Helvetica, sans-serif;
+text-decoration: none;
+color: #777777;
+float: right;
+border-left: 1px solid #efefef;
+padding-left: 4px;
+padding-right: 4px;
+
+
+}
+
+.nav{
+    
+    padding-top: 40px;
+    margin-top: 10px;
+    background-color: white;
+    
+
+}
+
+#about-header{
+
+color: #4aaaa5;
+border-top: #777777; 
+border-top-width: 2px;
+margin: 1px auto;
+
+
+
+}
+
+body {
+
+background-image: url("../../assets/so-white/so-white.png");
+
+}
+
+#mainbody{
+    
+    display: block; 
+    width: 960px;
+    margin-top: 30px; 
+    background-color: white; 
+    margin: auto; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777; 
+    line-height: 30px; 
+    
+    
+
+}
+
+#profilepic{
+
+    float: left; 
+    margin-right: 5px;
+
+
+}
+
+#aboutbody{
+
+    
+padding-bottom: 150px; 
+
+}
+
+
+#footer {
+
+position: fixed; 
+border-top-style: solid;
+border-width: 8px; 
+border-color: #4aaaa5;
+background-color: #777777;
+width: 960px;
+height: 40px; 
+margin-top: 60px;
+margin-left: 280px; 
+color: white; 
+text-align: center;
+bottom: 0%; 
+
+}
+
